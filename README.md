@@ -6,6 +6,7 @@ https://tonnerre.canoprof.fr/eleve/Ressources-SI/Projet%20Terminale%2048h%20IA%2
 
 # Documentation à télécharger 
 https://github.com/ctonnerre/SI-IA-Smartfarming/blob/main/smarfarming.zip
+
 Fichier "smartfarming.zip" : décompresser et ouvrir "index.html" dans un navigateur
 
 L'objectif est de réentraîner un cnn sur un dataset d'images de plantes saines et malades pour les reconnaître automatiquement.
