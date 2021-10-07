@@ -4,6 +4,9 @@ Codes pour le projet Terminale 48 en EdS SI- IA, Deep Learning, Transfer Learnin
 # Documentation de référence
 https://tonnerre.canoprof.fr/eleve/Ressources-SI/Projet%20Terminale%2048h%20IA%20Smart%20Farming/
 
+# Documentation à télécharger 
+Fichier "smartfarming.zip" : décompresser et ouvrir "index.html" dans un navigateur
+
 L'objectif est de réentraîner un cnn sur un dataset d'images de plantes saines et malades pour les reconnaître automatiquement.
 
 Ce code pourrait être implanté sur un drône pour une surveillance des cultures et une utilisation ciblée et limitée de produits phytosanitaires.
